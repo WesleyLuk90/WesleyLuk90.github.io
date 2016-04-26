@@ -25,6 +25,8 @@ date:   2016-04-23 2:38:00 -0700
 2. Chrome
 3. 7zip
 4. [AutoHotkeys](/autohotkey)
+4. [Startup Scripts](/startup-scripts)
+4. [Push to Talk Key](/ptt-key)
 
 ## Development
 
