@@ -10,4 +10,4 @@ date:   2016-04-23 2:38:00 -0700
 
 # Lights Script
 1. gpedit.msc
-2. Computer Configuration\Windows Settings\Scripts (Startup/Shutdown)
+2. User Configuration>Windows Settings>Scripts (Login/Logoff)
