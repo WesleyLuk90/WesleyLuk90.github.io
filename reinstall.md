@@ -10,7 +10,7 @@ date:   2016-04-23 2:38:00 -0700
 ## User Folder
 
 ```
-	robocopy C:\Users\wesleyluk F:/Backups/2016-4-23/wesleyluk /e /z /xj /mt:5 /r:1 /w:1 /xd C:\Users\wesleyluk\OneDrive\ /xd C:\Users\wesleyluk\Dropbox\
+	robocopy C:\Users\wesleyluk F:/Backups/2016-4-23/wesleyluk /e /z /xj /mt:5 /r:1 /w:1 /xd C:\Users\wesleyluk\OneDrive\ /xd C:\Users\wesleyluk\Dropbox\ /xd node_modules
 ```
 
 ## Webserver/Database
