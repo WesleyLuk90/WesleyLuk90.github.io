@@ -13,6 +13,10 @@ date:   2016-04-23 2:38:00 -0700
 	robocopy C:\Users\wesleyluk F:/Backups/2016-4-23/wesleyluk /e /z /xj /mt:5 /r:1 /w:1 /xd C:\Users\wesleyluk\OneDrive\ /xd C:\Users\wesleyluk\Dropbox\ /xd node_modules
 ```
 
+## Ninite
+
+[My Installer](https://ninite.com/7zip-chrome-dropbox-firefox-foxit-itunes-jdk8-jdkx8-klitecodecs-python-skype-vlc-windirstat/)
+
 ## Webserver/Database
 
 ## Home Folder (cygwin)
