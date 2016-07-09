@@ -49,12 +49,4 @@ date:   2016-04-23 2:38:00 -0700
 
 6. Disable Grouping Icons
 7. Make AppData folder not hidden
-
-```
-some code
-	block
-	goes
-	function here() {
-
-	}
-```
+8. Disable Skype Ads [Insturctions](http://www.cnet.com/how-to/how-to-disable-ads-in-skype/)
