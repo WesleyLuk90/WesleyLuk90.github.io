@@ -40,7 +40,7 @@ date:   2016-04-23 2:38:00 -0700
 
 # Configuration
 1. Disable User Account Control
-2. Disable Windows Defender
+2. Disable Windows Defender [Instructions](http://www.tenforums.com/tutorials/5918-windows-defender-turn-off-windows-10-a.html)
 3. Disable Windows Firewall
 4. Disable Power Settings
 5. Disable Keyboard Switch Hotkey
