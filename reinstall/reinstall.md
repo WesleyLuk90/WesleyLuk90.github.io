@@ -5,6 +5,8 @@ permalink: /reinstall
 date:   2016-04-23 2:38:00 -0700
 ---
 
+Here are my personal notes on what I should backup when I reformat my computer
+
 # Backup
 
 ## User Folder
