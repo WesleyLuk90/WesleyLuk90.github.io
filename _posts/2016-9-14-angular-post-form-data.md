@@ -2,11 +2,11 @@
 layout: post
 title: Posting FormData with AngularJS
 tags:
-	AngularJS
-	webapp
-	javascript
-	upload
-	FormData
+  angularjs
+  webapp
+  javascript
+  upload
+  formdata
 ---
 
 While it is not very clear from the documentation Angular's $http supports posting FormData. This might just be a quirk of the implementation since its not explicitly stated in the documentation but it works. A quick sample of working code is below.
