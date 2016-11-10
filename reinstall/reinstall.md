@@ -39,6 +39,7 @@ Here are my personal notes on what I should backup when I reformat my computer
 1. Sublime Text
 2. nodejs
 3. Console (cmder, conemu)
+4. cygwin [Install Script](/files/cygwin-install.bat)
 
 # Configuration
 1. Disable User Account Control
