@@ -41,7 +41,7 @@ VK7JG-NPHTM-C97JM-9MPGT-3V66T
 Install [Chocolately](https://chocolatey.org/install)
 
 ```
-choco install googlechrome jre8 jdk8 dropbox cmder firefox foxitreader itunes vlc k-litecodecpackfull 7zip.install windirstat sublimetext3 sublimetext3.packagecontrol atom cyg-get skype sysinternals nodejs.install yarn python2 github docker
+choco install googlechrome jre8 jdk8 dropbox cmder firefox foxitreader itunes vlc k-litecodecpackfull 7zip.install windirstat sublimetext3 sublimetext3.packagecontrol atom cygwin cyg-get skype sysinternals nodejs.install yarn python2 github docker
 ```
 
 Cygwin Packages
