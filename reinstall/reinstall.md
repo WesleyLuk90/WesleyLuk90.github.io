@@ -15,9 +15,17 @@ Here are my personal notes on what I should backup when I reformat my computer
 	robocopy C:\Users\wesleyluk F:/Backups/2016-4-23/wesleyluk /e /z /xj /mt:5 /r:1 /w:1 /xd C:\Users\wesleyluk\OneDrive\ /xd C:\Users\wesleyluk\Dropbox\ /xd node_modules
 ```
 
-## Ninite
+## Chocolately
+Install [Chocolately](https://chocolatey.org/install)
 
-[My Installer](https://ninite.com/7zip-chrome-dropbox-firefox-foxit-itunes-jdk8-jdkx8-klitecodecs-python-skype-vlc-windirstat/)
+```
+	choco install googlechrome jre8 jdk8 dropbox cmder firefox foxitreader itunes vlc k-litecodecpackfull 7zip.install windirstat sublimetext3 sublimetext3.packagecontrol atom cyg-get skype sysinternals nodejs.install yarn python2 github docker
+```
+
+Cygwin Packages
+```
+	cyg-get ssh chere git subversion aria2 wget make bind-utils pv curl
+```
 
 ## Webserver/Database
 
